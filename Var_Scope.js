@@ -10,4 +10,12 @@ if (true) {
     console.log(c);
 }
 
+console.log("-------");
 
+
+// Local Scope variable 
+
+if (true) {
+    var d = 40
+}
+console.log(d);
