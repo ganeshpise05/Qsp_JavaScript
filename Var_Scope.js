@@ -19,3 +19,17 @@ if (true) {
     var d = 40
 }
 console.log(d);
+
+console.log("-----------");
+
+// local var declared by using let & const
+
+/*
+if (true) {
+    let e = 50
+    const f = 60
+}
+
+console.log(e); // error
+console.log(f); // error
+*/
